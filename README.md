@@ -1,6 +1,6 @@
 <h2 align="center"><u>CamHacker</u></h2>
 
-![Hack anyone's camera and get images](https://github.com/infohackers/CamHacker/raw/main/files/banner.png)
+![Hack anyone's camera and get images](https://github.com/KasRoudra/CamHacker/raw/main/files/banner.png)
 <h4 align="center"> Hack anyone's camera and get images!</h4>
 
 <p align="center">
